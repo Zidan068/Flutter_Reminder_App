@@ -1,5 +1,10 @@
-2023/04/05-01:01:22.257 1580 Reusing MANIFEST C:\Users\shiha\AppData\Local\Temp\flutter_tools.c53482d4\flutter_tools_chrome_device.fab3ba2f\Default\Asset Store\assets.db/MANIFEST-000001
-2023/04/05-01:01:22.260 1580 Recovering log #7
-2023/04/05-01:01:22.260 1580 Reusing old log C:\Users\shiha\AppData\Local\Temp\flutter_tools.c53482d4\flutter_tools_chrome_device.fab3ba2f\Default\Asset Store\assets.db/000007.log 
-2023/04/05-01:01:22.276 1580 Delete type=0 #3
-2023/04/05-01:01:22.276 1580 Delete type=0 #4
+2023/05/05-18:21:57.207 3738 Reusing MANIFEST C:\Users\shiha\AppData\Local\Temp\flutter_tools.2a5b94ae\flutter_tools_chrome_device.f31f955c\Default\Asset Store\assets.db/MANIFEST-000001
+2023/05/05-18:21:57.209 3738 Recovering log #13
+2023/05/05-18:21:57.212 3738 Reusing old log C:\Users\shiha\AppData\Local\Temp\flutter_tools.2a5b94ae\flutter_tools_chrome_device.f31f955c\Default\Asset Store\assets.db/000013.log 
+2023/05/05-18:21:57.214 3738 Delete type=2 #3
+2023/05/05-18:21:57.214 3738 Delete type=0 #3
+2023/05/05-18:21:57.214 3738 Delete type=0 #4
+2023/05/05-18:21:57.214 3738 Delete type=2 #6
+2023/05/05-18:21:57.214 3738 Delete type=0 #7
+2023/05/05-18:21:57.214 3738 Delete type=2 #9
+2023/05/05-18:21:57.214 3738 Delete type=0 #10
